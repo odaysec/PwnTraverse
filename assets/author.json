@@ -1,0 +1,12 @@
+{
+    "name": "ANDRI aka odaysec",
+    "credits": [
+        "ANDRI"
+        "Pwn Technologies"
+    ],
+    "license": "GPL",
+    "version": "0.1",
+    "maintainer": "ANDRI/Bjormugandrk",
+    "email": "github@zerodaysec.org",
+    "blog": "https://me.zerodaysec.org"
+}
