@@ -74,9 +74,7 @@ Available options:
 * `--threads` → Number of threads (default: 10)
 * `--output` → Save results to file (JSON/HTML)
 
-<p align="center">
-  <img src="https://i.postimg.cc/NFYLcvZK/pwntraverse-Man-Banner.png" alt=" Logo" width="1000">
-</p>
+[![asciicast](https://asciinema.org/a/742271.svg)](https://asciinema.org/a/742271)
 
 ## Output
 
